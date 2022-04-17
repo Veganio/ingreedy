@@ -45,6 +45,9 @@
     - "tablespoons"
     - "tbs."
     - "tbs"
+    - "tbsps"
+    - "tblsp"
+    - "tblsps"
   :teaspoon:
     - "tsp."
     - "tsp"
@@ -52,6 +55,7 @@
     - "t."
     - "teaspoon"
     - "teaspoons"
+    - "tsps"
   :gram:
     - "g"
     - "g."
@@ -102,6 +106,35 @@
     - "can"
   :to_taste:
     - "to taste"
+  :medium:
+    - "medium"
+  :large:
+    - "large"
+  :head:
+    - "head"
+    - "heads"
+  :inch:
+    - "inch"
+    - "inches"
+  :sprig:
+    - "sprig"
+    - "sprigs"
+  :bunch:
+    - "bunch"
+    - "bunches"
+  :leaves:
+    - "leaves"
+  :small:
+    - "small"
+  :sheet:
+    - "sheet"
+    - "sheets"
+  :piece:
+    - "piece"
+    - "pieces"
+  :slice:
+    - "slice"
+    - "slices"
 :numbers:
   a: 1
   an: 1
